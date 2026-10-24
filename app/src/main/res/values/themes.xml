@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Strata" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/strata_bg</item>
+        <item name="android:statusBarColor">@color/strata_bg</item>
+        <item name="android:navigationBarColor">@color/strata_bg</item>
+    </style>
+</resources>
